@@ -1,0 +1,20 @@
+﻿{
+  "Host": "smtp.office365.com",
+  "Port": "587",
+  "EnableSsl": "true",
+  "Username": "hoadondientu@vietnamstar-auto.com",
+  "Password": "Vns@12345",
+  "From": "hoadondientu@vietnamstar-auto.com",
+  "To": "hoadondientu@vietnamstar-auto.com",
+  "CCMail": ""
+}
+//{
+//  "Host": "smtp.gmail.com",
+//  "Port": "587",
+//  "EnableSsl": "true",
+//  "Username": "minhvn.mmo@gmail.com",
+//  "Password": "minhvn@1904",
+//  "From": "minhvn.mmo@gmail.com",
+//  "To": "minhvn.mmo@gmail.com",
+//  "CCMail": ""
+//}

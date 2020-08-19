@@ -1,0 +1,186 @@
+﻿[
+  {
+    "Comp": "V2",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001",
+    "ComAddress": "Lô DVTM-2 và DVTM-3 Đường số 7, Khu Chế Xuất Tân Thuận, Phường Tân Thuận, Quận 7, Thành phố Hồ Chí Minh,Việt Nam"
+  },
+  {
+    "Comp": "V3",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-001",
+    "ComAddress": "Lô D5-1, Khu Công Nghiệp Hà Nội - Đài Tư, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội, Việt Nam"
+  },
+  {
+    "Comp": "V7",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-001",
+    "ComAddress": "Lô D5-1, Khu Công Nghiệp Hà Nội - Đài Tư, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội, Việt Nam"
+  },
+  {
+    "Comp": "V4",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-003",
+    "ComAddress": "Thôn Vĩnh Điềm Thượng, Xã Vĩnh Hiệp, Thành phố Nha Trang, Tỉnh Khánh Hòa, Việt Nam"
+  },
+  {
+    "Comp": "V5",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-002",
+    "ComAddress": "Lô DVTM-2 và DVTM-3 Đường số 7, Khu Chế Xuất Tân Thuận, Phường Tân Thuận, Quận 7, Thành phố Hồ Chí Minh,Việt Nam"
+  },
+  {
+    "Comp": "V6",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-007",
+    "ComAddress": "Số 4, The Canary, Đại Lộ Bình Dương, Phường Bình Hòa, Thị Xã Thuận An, Tỉnh Bình Dương"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-006",
+    "ComAddress": "Số 38, đường Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-004",
+    "ComAddress": "Số 2, đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "11",
+    "SLAAccount": "M9999999",
+    "ComTaxCode": "0303313001-006",
+    "ComAddress": "Số 38, đường Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "11",
+    "SLAAccount": "M9999998, M0000900",
+    "ComTaxCode": "0303313001-004",
+    "ComAddress": "Số 2, đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "9",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-004",
+    "ComAddress": "Số 2, đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "13",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-004",
+    "ComAddress": "Số 2, đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "8",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-004",
+    "ComAddress": "Số 2, đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "12",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-006",
+    "ComAddress": "Số 38, đường Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "1, 2, 7, 8, 9, 10, 13",
+    "SLAAccount": "c0000003",
+    "ComTaxCode": "0303313001-004",
+    "ComAddress": "Số 2, đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "10",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-004",
+    "ComAddress": "Số 2, đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "1",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-004",
+    "ComAddress": "Số 2, đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "2",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-004",
+    "ComAddress": "Số 2, đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "3",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-006",
+    "ComAddress": "Số 38, đường Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "4",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-006",
+    "ComAddress": "Số 38, đường Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "5",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-006",
+    "ComAddress": "Số 38, đường Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "6",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-006",
+    "ComAddress": "Số 38, đường Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  },
+  {
+    "Comp": "V1",
+    "Srcmodules": "SO, VSB, SL",
+    "InvBuss": "7",
+    "SLAAccount": "",
+    "ComTaxCode": "0303313001-004",
+    "ComAddress": "Số 2, đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh, Việt Nam"
+  }
+]
